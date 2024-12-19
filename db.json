@@ -1,0 +1,77 @@
+{
+  "eventos": [
+    {
+      "id": "1",
+      "Nombre": "Seminario de Redes",
+      "urlImage": "assets/redes.jpg",
+      "Descripcion": "Aprende sobre redes avanzadas y sus aplicaciones.",
+      "fecha": "2024-11-20",
+      "Hora": "10:00 AM",
+      "Ubicacion": "Sala 101, Campus Maipú"
+    },
+    {
+      "id": "2",
+      "Nombre": "Taller de Programación",
+      "urlImage": "assets/programacion.jpg",
+      "Descripcion": "Curso intensivo sobre el desarrollo móvil con Ionic.",
+      "fecha": "2024-10-25",
+      "Hora": "14:00 PM",
+      "Ubicacion": "Sala 202, Campus Maipú"
+    },
+    {
+      "id": "3",
+      "Nombre": "Conferencia sobre Inteligencia Artificial",
+      "urlImage": "assets/ia.jpg",
+      "Descripcion": "Aprende sobre redes avanzadas y sus aplicaciones.",
+      "fecha": "2024-11-20",
+      "Hora": "10:00 AM",
+      "Ubicacion": "Sala 101, Campus Maipú"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "1",
+      "username": "Polet Adasme",
+      "password": "duoc1234",
+      "email": "Polet@duocuc.cl",
+      "isactive": true 
+    },
+    {
+      "id": "2",
+      "username": "Jean Pierre Castro",
+      "password": "duoc4321",
+      "email": "Jean@duocuc.cl",
+      "isactive": true
+    }
+  ],
+  "registrarseevento": [
+    {
+      "id": "1",
+      "nombre": "Polet Adasme",
+      "email": "Polet@duocuc.cl",
+      "rut": "19.428.643-0"
+    },
+    {
+      "id": "2",
+      "nombre": "Jean Pierre Castro",
+      "email": "Jean@duocuc.cl",
+      "rut": "19.428.644-0"
+    },
+    {
+      "id": "a393",
+      "nombre": "yyyy",
+      "email": "yyyyy",
+      "rut": "yyyyy"
+    }
+  ],
+  "usuariosregistrados": [
+    {
+      "email": "po@duoc.cl",
+      "password": "1234567"
+    },
+    {
+      "email": "usuario2@example.com",
+      "password": "password456"
+    }
+  ]
+}
